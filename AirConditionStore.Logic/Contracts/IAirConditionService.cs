@@ -8,5 +8,6 @@ namespace AirConditionStore.Logic.Contracts
     {
         Task CreateAirConditionAsync(AirCondition airCondition);
         Task<ICollection<AirCondition>> GetAirConditionAsync();
+        Task RemoveAirCondition(string name);
     }
 }

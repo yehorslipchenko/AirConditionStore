@@ -55,3 +55,16 @@
 /Users/egorslipchenko/Documents/AirStore/AirConditionStore/AirConditionStore.Api/bin/Debug/net5.0/AirConditionStore.DataAccess.pdb
 /Users/egorslipchenko/Documents/AirStore/AirConditionStore/AirConditionStore.Api/bin/Debug/net5.0/AirConditionStore.Domain.pdb
 /Users/egorslipchenko/Documents/AirStore/AirConditionStore/AirConditionStore.Api/obj/Debug/net5.0/AirConditionStore.Api.csproj.CopyComplete
+/Users/egorslipchenko/Documents/AirStore/AirConditionStore/AirConditionStore.Api/bin/Debug/net5.0/AutoMapper.dll
+/Users/egorslipchenko/Documents/AirStore/AirConditionStore/AirConditionStore.Api/bin/Debug/net5.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+/Users/egorslipchenko/Documents/AirStore/AirConditionStore/AirConditionStore.Api/bin/Debug/net5.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/egorslipchenko/Documents/AirStore/AirConditionStore/AirConditionStore.Api/bin/Debug/net5.0/Microsoft.Extensions.Options.dll
+/Users/egorslipchenko/Documents/AirStore/AirConditionStore/AirConditionStore.Api/bin/Debug/net5.0/Microsoft.Extensions.Primitives.dll
+/Users/egorslipchenko/Documents/AirStore/AirConditionStore/AirConditionStore.Api/bin/Debug/net5.0/Microsoft.OpenApi.dll
+/Users/egorslipchenko/Documents/AirStore/AirConditionStore/AirConditionStore.Api/bin/Debug/net5.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/egorslipchenko/Documents/AirStore/AirConditionStore/AirConditionStore.Api/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/egorslipchenko/Documents/AirStore/AirConditionStore/AirConditionStore.Api/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/egorslipchenko/Documents/AirStore/AirConditionStore/AirConditionStore.Api/bin/Debug/net5.0/System.Runtime.CompilerServices.Unsafe.dll
+/Users/egorslipchenko/Documents/AirStore/AirConditionStore/AirConditionStore.Api/bin/Debug/net5.0/AirConditionStore.Logic.dll
+/Users/egorslipchenko/Documents/AirStore/AirConditionStore/AirConditionStore.Api/bin/Debug/net5.0/AirConditionStore.Logic.pdb
+/Users/egorslipchenko/Documents/AirStore/AirConditionStore/AirConditionStore.Api/obj/Debug/net5.0/AirConditionStore.Api.MvcApplicationPartsAssemblyInfo.cs

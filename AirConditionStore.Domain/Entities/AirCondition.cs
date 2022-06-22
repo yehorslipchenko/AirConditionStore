@@ -13,7 +13,9 @@ namespace AirConditionStore.Domain.Entities
             ControlTypes = new HashSet<ControlType>();
             Countries = new HashSet<ProducingCountry>();
         }
-        
+
+        public string Name { get; set; }
+        public int Price { get; set; }
         public int RoomArea { get; set; }
 
         public int BrandId { get; set; }

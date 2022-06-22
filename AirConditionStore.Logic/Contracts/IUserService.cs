@@ -8,5 +8,6 @@ namespace AirConditionStore.Logic.Contracts
     {
         Task CreateUserAsync(User user);
         Task<ICollection<User>> GetUsersAsync();
+        Task RemoveUser(string login);
     }
 }

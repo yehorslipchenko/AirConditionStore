@@ -38,7 +38,13 @@ namespace AirConditionStore.DataAccess.Migrations
                     b.Property<int>("IndoorUnitInstallationTypeId")
                         .HasColumnType("int");
 
+                    b.Property<string>("Name")
+                        .HasColumnType("nvarchar(max)");
+
                     b.Property<int>("OperationNegativeId")
+                        .HasColumnType("int");
+
+                    b.Property<int>("Price")
                         .HasColumnType("int");
 
                     b.Property<int>("RoomArea")

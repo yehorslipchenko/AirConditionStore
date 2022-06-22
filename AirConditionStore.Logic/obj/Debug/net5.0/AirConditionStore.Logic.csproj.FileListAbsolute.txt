@@ -10,3 +10,8 @@
 /Users/egorslipchenko/Documents/AirStore/AirConditionStore/AirConditionStore.Logic/obj/Debug/net5.0/AirConditionStore.Logic.dll
 /Users/egorslipchenko/Documents/AirStore/AirConditionStore/AirConditionStore.Logic/obj/Debug/net5.0/ref/AirConditionStore.Logic.dll
 /Users/egorslipchenko/Documents/AirStore/AirConditionStore/AirConditionStore.Logic/obj/Debug/net5.0/AirConditionStore.Logic.pdb
+/Users/egorslipchenko/Documents/AirStore/AirConditionStore/AirConditionStore.Logic/bin/Debug/net5.0/AirConditionStore.DataAccess.dll
+/Users/egorslipchenko/Documents/AirStore/AirConditionStore/AirConditionStore.Logic/bin/Debug/net5.0/AirConditionStore.Domain.dll
+/Users/egorslipchenko/Documents/AirStore/AirConditionStore/AirConditionStore.Logic/bin/Debug/net5.0/AirConditionStore.DataAccess.pdb
+/Users/egorslipchenko/Documents/AirStore/AirConditionStore/AirConditionStore.Logic/bin/Debug/net5.0/AirConditionStore.Domain.pdb
+/Users/egorslipchenko/Documents/AirStore/AirConditionStore/AirConditionStore.Logic/obj/Debug/net5.0/AirConditionStore.Logic.csproj.CopyComplete

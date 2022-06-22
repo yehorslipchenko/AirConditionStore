@@ -43,5 +43,19 @@ namespace AirConditionStore.Logic
                     .ToListAsync();
             }
         }
+        
+        public async Task RemoveUser(string login)
+        {
+            using (var uow = UnitOfWorkFactory.UnitOfWork)
+            {
+                var item = uow.GetRepository<User>().Query.FirstOrDefault(x=> x.Login == login);
+
+                if (item != default)
+                {
+                    uow.GetRepository<User>().Remove(item);
+                    await uow.SaveChangesAsync();
+                }
+            }
+        }
     }
 }

@@ -4,6 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using AirConditionStore.DataAccess;
 using AirConditionStore.DataAccess.Extensions;
+using AirConditionStore.Logic.Extensions;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Http;
@@ -26,7 +27,14 @@ namespace AirConditionStore.Api
        
         public void ConfigureServices(IServiceCollection services)
         {
+            services.AddAutoMapper(typeof(Startup));
             services.RegisterDataAccessDI();
+            services.RegisterLogicDI();
+            services.AddControllers();
+            services.AddSwaggerGen(c =>
+            {
+                c.SwaggerDoc("v1", new Microsoft.OpenApi.Models.OpenApiInfo() {Title = "Api", Version = "v1"});
+            });
         }
 
         public void Configure(IApplicationBuilder app, IWebHostEnvironment env)
@@ -36,11 +44,16 @@ namespace AirConditionStore.Api
                 app.UseDeveloperExceptionPage();
             }
 
+            app.UseHttpsRedirection();
+            app.UseSwagger();
+            app.UseSwaggerUI();
             app.UseRouting();
+            //app.UseAuthorization();
 
             app.UseEndpoints(endpoints =>
             {
-                endpoints.MapGet("/", async context => { await context.Response.WriteAsync("Hello World!"); });
+                endpoints.MapControllers();
+                //endpoints.MapGet("/", async context => { await context.Response.WriteAsync("Hello World!"); });
             });
         }
     }
