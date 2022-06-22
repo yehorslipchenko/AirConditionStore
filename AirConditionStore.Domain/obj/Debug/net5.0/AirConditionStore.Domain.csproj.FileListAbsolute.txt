@@ -1,0 +1,12 @@
+/Users/egorslipchenko/Documents/AirStore/AirConditionStore/AirConditionStore.Domain/bin/Debug/net5.0/AirConditionStore.Domain.deps.json
+/Users/egorslipchenko/Documents/AirStore/AirConditionStore/AirConditionStore.Domain/bin/Debug/net5.0/AirConditionStore.Domain.dll
+/Users/egorslipchenko/Documents/AirStore/AirConditionStore/AirConditionStore.Domain/bin/Debug/net5.0/ref/AirConditionStore.Domain.dll
+/Users/egorslipchenko/Documents/AirStore/AirConditionStore/AirConditionStore.Domain/bin/Debug/net5.0/AirConditionStore.Domain.pdb
+/Users/egorslipchenko/Documents/AirStore/AirConditionStore/AirConditionStore.Domain/obj/Debug/net5.0/AirConditionStore.Domain.csproj.AssemblyReference.cache
+/Users/egorslipchenko/Documents/AirStore/AirConditionStore/AirConditionStore.Domain/obj/Debug/net5.0/AirConditionStore.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/egorslipchenko/Documents/AirStore/AirConditionStore/AirConditionStore.Domain/obj/Debug/net5.0/AirConditionStore.Domain.AssemblyInfoInputs.cache
+/Users/egorslipchenko/Documents/AirStore/AirConditionStore/AirConditionStore.Domain/obj/Debug/net5.0/AirConditionStore.Domain.AssemblyInfo.cs
+/Users/egorslipchenko/Documents/AirStore/AirConditionStore/AirConditionStore.Domain/obj/Debug/net5.0/AirConditionStore.Domain.csproj.CoreCompileInputs.cache
+/Users/egorslipchenko/Documents/AirStore/AirConditionStore/AirConditionStore.Domain/obj/Debug/net5.0/AirConditionStore.Domain.dll
+/Users/egorslipchenko/Documents/AirStore/AirConditionStore/AirConditionStore.Domain/obj/Debug/net5.0/ref/AirConditionStore.Domain.dll
+/Users/egorslipchenko/Documents/AirStore/AirConditionStore/AirConditionStore.Domain/obj/Debug/net5.0/AirConditionStore.Domain.pdb

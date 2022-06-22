@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AirConditionStore.Api", "AirConditionStore.Api\AirConditionStore.Api.csproj", "{87F65420-B9C3-418F-8E5D-7D1EBD11E2B5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AirConditionStore.DataAccess", "AirConditionStore.DataAccess\AirConditionStore.DataAccess.csproj", "{0539C82C-3A2F-4CD9-A2CF-48D688E6B435}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AirConditionStore.Domain", "AirConditionStore.Domain\AirConditionStore.Domain.csproj", "{08C21C1F-7641-42DD-91FC-28039265184A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AirConditionStore.Logic", "AirConditionStore.Logic\AirConditionStore.Logic.csproj", "{FC3CB03C-1A0C-4575-BEF0-768369B4CB70}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{87F65420-B9C3-418F-8E5D-7D1EBD11E2B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87F65420-B9C3-418F-8E5D-7D1EBD11E2B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87F65420-B9C3-418F-8E5D-7D1EBD11E2B5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{87F65420-B9C3-418F-8E5D-7D1EBD11E2B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0539C82C-3A2F-4CD9-A2CF-48D688E6B435}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0539C82C-3A2F-4CD9-A2CF-48D688E6B435}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0539C82C-3A2F-4CD9-A2CF-48D688E6B435}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0539C82C-3A2F-4CD9-A2CF-48D688E6B435}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0539C82C-3A2F-4CD9-A2CF-48D688E6B435}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{08C21C1F-7641-42DD-91FC-28039265184A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08C21C1F-7641-42DD-91FC-28039265184A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08C21C1F-7641-42DD-91FC-28039265184A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{08C21C1F-7641-42DD-91FC-28039265184A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC3CB03C-1A0C-4575-BEF0-768369B4CB70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC3CB03C-1A0C-4575-BEF0-768369B4CB70}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC3CB03C-1A0C-4575-BEF0-768369B4CB70}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC3CB03C-1A0C-4575-BEF0-768369B4CB70}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+EndGlobal

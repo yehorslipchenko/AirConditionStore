@@ -1,0 +1,132 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/egorslipchenko/Documents/AirStore/AirConditionStore/AirConditionStore.DataAccess/AirConditionStore.DataAccess.csproj": {}
+  },
+  "projects": {
+    "/Users/egorslipchenko/Documents/AirStore/AirConditionStore/AirConditionStore.DataAccess/AirConditionStore.DataAccess.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/egorslipchenko/Documents/AirStore/AirConditionStore/AirConditionStore.DataAccess/AirConditionStore.DataAccess.csproj",
+        "projectName": "AirConditionStore.DataAccess",
+        "projectPath": "/Users/egorslipchenko/Documents/AirStore/AirConditionStore/AirConditionStore.DataAccess/AirConditionStore.DataAccess.csproj",
+        "packagesPath": "/Users/egorslipchenko/.nuget/packages/",
+        "outputPath": "/Users/egorslipchenko/Documents/AirStore/AirConditionStore/AirConditionStore.DataAccess/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/egorslipchenko/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "/Users/egorslipchenko/Documents/AirStore/AirConditionStore/AirConditionStore.Domain/AirConditionStore.Domain.csproj": {
+                "projectPath": "/Users/egorslipchenko/Documents/AirStore/AirConditionStore/AirConditionStore.Domain/AirConditionStore.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.7, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.7, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.7, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.400/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/egorslipchenko/Documents/AirStore/AirConditionStore/AirConditionStore.Domain/AirConditionStore.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/egorslipchenko/Documents/AirStore/AirConditionStore/AirConditionStore.Domain/AirConditionStore.Domain.csproj",
+        "projectName": "AirConditionStore.Domain",
+        "projectPath": "/Users/egorslipchenko/Documents/AirStore/AirConditionStore/AirConditionStore.Domain/AirConditionStore.Domain.csproj",
+        "packagesPath": "/Users/egorslipchenko/.nuget/packages/",
+        "outputPath": "/Users/egorslipchenko/Documents/AirStore/AirConditionStore/AirConditionStore.Domain/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/egorslipchenko/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.400/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,12 @@
+/Users/egorslipchenko/Documents/AirStore/AirConditionStore/AirConditionStore.Logic/bin/Debug/net5.0/AirConditionStore.Logic.deps.json
+/Users/egorslipchenko/Documents/AirStore/AirConditionStore/AirConditionStore.Logic/bin/Debug/net5.0/AirConditionStore.Logic.dll
+/Users/egorslipchenko/Documents/AirStore/AirConditionStore/AirConditionStore.Logic/bin/Debug/net5.0/ref/AirConditionStore.Logic.dll
+/Users/egorslipchenko/Documents/AirStore/AirConditionStore/AirConditionStore.Logic/bin/Debug/net5.0/AirConditionStore.Logic.pdb
+/Users/egorslipchenko/Documents/AirStore/AirConditionStore/AirConditionStore.Logic/obj/Debug/net5.0/AirConditionStore.Logic.csproj.AssemblyReference.cache
+/Users/egorslipchenko/Documents/AirStore/AirConditionStore/AirConditionStore.Logic/obj/Debug/net5.0/AirConditionStore.Logic.GeneratedMSBuildEditorConfig.editorconfig
+/Users/egorslipchenko/Documents/AirStore/AirConditionStore/AirConditionStore.Logic/obj/Debug/net5.0/AirConditionStore.Logic.AssemblyInfoInputs.cache
+/Users/egorslipchenko/Documents/AirStore/AirConditionStore/AirConditionStore.Logic/obj/Debug/net5.0/AirConditionStore.Logic.AssemblyInfo.cs
+/Users/egorslipchenko/Documents/AirStore/AirConditionStore/AirConditionStore.Logic/obj/Debug/net5.0/AirConditionStore.Logic.csproj.CoreCompileInputs.cache
+/Users/egorslipchenko/Documents/AirStore/AirConditionStore/AirConditionStore.Logic/obj/Debug/net5.0/AirConditionStore.Logic.dll
+/Users/egorslipchenko/Documents/AirStore/AirConditionStore/AirConditionStore.Logic/obj/Debug/net5.0/ref/AirConditionStore.Logic.dll
+/Users/egorslipchenko/Documents/AirStore/AirConditionStore/AirConditionStore.Logic/obj/Debug/net5.0/AirConditionStore.Logic.pdb
