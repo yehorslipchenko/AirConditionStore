@@ -5,10 +5,7 @@
     </PropertyGroup>
 
     <ItemGroup>
-      <Folder Include="Extensions" />
-    </ItemGroup>
-
-    <ItemGroup>
+      <ProjectReference Include="..\AirConditionStore.DataAccess\AirConditionStore.DataAccess.csproj" />
       <ProjectReference Include="..\AirConditionStore.Domain\AirConditionStore.Domain.csproj" />
     </ItemGroup>
 

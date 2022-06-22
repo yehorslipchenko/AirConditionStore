@@ -36,7 +36,7 @@ namespace AirConditionStore.DataAccess
 
         public void Update(T item)
         {
-            context.Entry(item).State = EntityState.Modified;
+            context.Update(item);
         }
 
         public void AddOrUpdate(T item)

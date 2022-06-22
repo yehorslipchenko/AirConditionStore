@@ -16,7 +16,7 @@ namespace AirConditionStore.Domain.Entities
         
         public int RoomArea { get; set; }
 
-        public string BrandId { get; set; }
+        public int BrandId { get; set; }
         public int StatusId { get; set; }
         public int AirConditionTypeId { get; set; }
         public int OperationNegativeId { get; set; }

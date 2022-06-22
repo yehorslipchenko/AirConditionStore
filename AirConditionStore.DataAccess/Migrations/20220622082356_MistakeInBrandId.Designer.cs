@@ -4,14 +4,16 @@ using AirConditionStore.DataAccess;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 
 namespace AirConditionStore.DataAccess.Migrations
 {
     [DbContext(typeof(AirConditionStoreContext))]
-    partial class AirConditionStoreContextModelSnapshot : ModelSnapshot
+    [Migration("20220622082356_MistakeInBrandId")]
+    partial class MistakeInBrandId
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
