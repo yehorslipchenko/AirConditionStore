@@ -2,7 +2,6 @@ using System.Collections.Generic;
 using System.Threading.Tasks;
 using AirConditionStore.Api.Dtos.Input;
 using AirConditionStore.Domain.Entities;
-using AirConditionStore.Logic;
 using AirConditionStore.Logic.Contracts;
 using AutoMapper;
 using Microsoft.AspNetCore.Mvc;

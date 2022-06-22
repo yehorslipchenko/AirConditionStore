@@ -8,6 +8,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AirConditionStore.Domain", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AirConditionStore.Logic", "AirConditionStore.Logic\AirConditionStore.Logic.csproj", "{FC3CB03C-1A0C-4575-BEF0-768369B4CB70}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AirCondition.IntegrationTest", "AirCondition.IntegrationTest\AirCondition.IntegrationTest.csproj", "{FF9E70A1-9140-42BA-8C18-EC6AAE215228}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -31,5 +33,9 @@ Global
 		{FC3CB03C-1A0C-4575-BEF0-768369B4CB70}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FC3CB03C-1A0C-4575-BEF0-768369B4CB70}.Release|Any CPU.Build.0 = Release|Any CPU
 		{FC3CB03C-1A0C-4575-BEF0-768369B4CB70}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF9E70A1-9140-42BA-8C18-EC6AAE215228}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF9E70A1-9140-42BA-8C18-EC6AAE215228}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF9E70A1-9140-42BA-8C18-EC6AAE215228}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF9E70A1-9140-42BA-8C18-EC6AAE215228}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
